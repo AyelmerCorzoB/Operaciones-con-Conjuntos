@@ -1,0 +1,5 @@
+Ejercicio 4: Operaciones con Conjuntos
+📌 Instrucciones:
+1. Pedir al usuario dos conjuntos de números enteros.
+2. Almacenar los números en dos HashSet<Integer> .
+3. Calcular y mostrar la unión, intersección y diferencia de los conjuntos.
